@@ -8,6 +8,6 @@ setup(
     author='Cameron Sukgoo Her',
     author_email='csh4bj@virginia.edu',
     license='MIT',
-    packages=['bookloverx']
+    packages=['booklover']
 )
 
